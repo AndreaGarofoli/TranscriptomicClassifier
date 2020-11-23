@@ -6,4 +6,5 @@
 
 
 The classifier has been build using Python3.
-Please find the Jupyther ipynb file with additional information and the code.
+
+Please find the Jupyther ipynb file with additional information and the code of the Python script.
